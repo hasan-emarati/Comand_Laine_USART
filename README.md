@@ -1,6 +1,6 @@
-﻿(Due to technical issues, the search service is temporarily unavailable.)
 
-# README for AVR ATmega16 Command Line Interface Project
+
+#  Command Line Interface Project
 
 ![image](https://github.com/user-attachments/assets/27a0c7d0-7cd0-4f7f-99e2-a0f5efe6d756)
 
